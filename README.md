@@ -1,3 +1,3 @@
 Taller3Web
 
-http://inmobiliariauc.us.openode.io/
+http://inmobiliariauc.openode.io/
